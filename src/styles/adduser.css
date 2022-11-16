@@ -11,9 +11,9 @@
 
 .form input{
   width: 100px;
-  margin-top: 15px;
+  margin-bottom: 15px;
     width: 450px;
-    height: 25px;
+    height: 35px;
     border: 2px solid rgb(149, 177, 227);
     background-color: rgba(234, 234, 234, 0.596);
     border-radius: 5px;
@@ -23,10 +23,18 @@
 }
 
 .btn{
-width: 100px;
+width: 150px;
 height: 40px;
 margin-top: 20px;
 border: 2px solid cornflowerblue;
 border-radius: 8px;
 
+}
+.adduser-btn{
+  display: inline;
+  
+}
+
+.adduser-btn button{
+  margin-right:70px;
 }

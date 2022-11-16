@@ -1,26 +1,23 @@
+.user-list{
+    display: inline-flex;
+}
 
-/* .title{
-    text-align: center;
-} */
-.list{
+.usr-list{
+    
     text-align: left;
     margin: 20px 30px;
-    display: inline-flex;
     border: 2px solid white;
     border-radius: 8px;
     box-shadow: 0px 0px 9px rgb(154, 154, 154);
     width: 300px;
     padding: 10px;
 }
-.list-item{
-    width: 100%;
-}
-.list p{
-    font-size: 1.3rem;
-}
-.list-item button{
+.usr-list button{
     width: 50%;
     height: 40px;
     border: 2px solid#4FA095;
     border-radius: 8px;
+}
+.title{
+    text-align: center;
 }

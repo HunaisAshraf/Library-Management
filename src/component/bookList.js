@@ -4,8 +4,8 @@ import { useState } from "react";
 import { useEffect } from "react";
 import { useLocation } from "react-router-dom";
 
-const BookList = (props) => {
-  let email = props.data;
+const BookList = () => {
+  
 
 let location = useLocation()
   let [book, setBooks] = useState([]);

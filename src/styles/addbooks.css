@@ -1,3 +1,19 @@
 .addbooks{
     text-align: center;
 }
+.btn{
+    width: 150px;
+    height: 40px;
+    margin-top: 20px;
+    border: 2px solid cornflowerblue;
+    border-radius: 8px;
+    
+    }
+    .addbook-btn{
+      display: inline;
+      
+    }
+    
+    .addbook-btn button{
+      margin-right:70px;
+    }
