@@ -1,0 +1,18 @@
+.navbar{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border-bottom: 2px solid #CFF5E7;
+    height: 75px;
+}
+
+.nav-link li{
+    display: inline;
+    margin: 0px 20px;
+    
+}
+
+.home-link{
+    text-decoration: none;
+    color: black;
+}

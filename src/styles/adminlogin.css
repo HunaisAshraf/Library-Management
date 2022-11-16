@@ -1,0 +1,59 @@
+
+
+.adm-login{
+    display: flex;
+    margin: 50px 250px;
+    padding: 20px;
+    box-shadow: 0px 0px 2px 2px #CFF5E7;
+    border-radius: 10px;
+    
+}
+.adm-img img{
+    width: 700px;
+}
+.adm-detail{
+    text-align: center;
+}
+.adm-form{
+    text-align: justify;
+    margin-top: 60px;
+    margin-left: 50px;
+    font-size: 1.2rem;
+}
+.adm-form input{
+    border: none;
+    outline: none;
+    width: 300px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #CFF5E7;
+    
+}
+
+.adm-btns button{
+    height: 55px;
+    font-size: 1.3rem;
+    margin-bottom: 20px;
+    border: 3px solid black;
+    border-radius: 50px;
+    margin-top: 50px;
+    background-color:  #CFF5E7;
+        
+}
+
+.adm-btns{
+    text-align: center;
+    margin-right: 30px;
+}
+.adm-btns button{
+    width:40%;
+    color: white;
+    height: 55px;
+    font-size: 1.3rem;
+    margin-bottom: 20px;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 50px;
+    margin-top: 50px;
+    background-color: rgba(0, 0, 0, 0.789);
+        
+}

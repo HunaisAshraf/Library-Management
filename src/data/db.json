@@ -1,0 +1,40 @@
+{
+  "book": [
+    {
+      "title": "Harry potter and the philosophers stone",
+      "author": "j.k Rowling",
+      "language": "English",
+      "id": 1
+    },
+    {
+      "title": "Harry potter and the prisoner of azkaban",
+      "author": "j.k Rowling",
+      "language": "English",
+      "id": 2
+    },
+    {
+      "title": "Harry potter and the chamber of secret",
+      "author": "j.k Rowling",
+      "language": "English",
+      "id": 3
+    }
+  ],
+  "user": [
+    {
+      "name": "a,dfn",
+      "phone": "1221",
+      "email": "hunaismunu306@gmail.com",
+      "dob": "2000-05-01",
+      "address": "jahfdjas",
+      "id": 1
+    },
+    {
+      "name": "kdsj",
+      "phone": "12223",
+      "email": "hunaisashraf@gmail.com",
+      "dob": "1111-05-04",
+      "address": "ansdmfsdn",
+      "id": 2
+    }
+  ]
+}

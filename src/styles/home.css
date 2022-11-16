@@ -1,0 +1,57 @@
+
+.home{
+    height: 100vh;
+    color: #222831;
+}
+.navbar{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    /* background-color: #CFF5E7; */
+}
+
+.nav-link li{
+    display: inline;
+    margin: 0px 20px;
+}
+
+.home-content{
+    display: flex;
+    margin: 100px 100px;
+}
+.home-btn{
+    flex: 40%;
+    text-align: left;
+}
+.home-image{
+    flex: 60%;
+    
+}
+.home-image img{
+   width: 800px;
+}
+.home-btn h1{
+    font-size: 3rem;
+}
+.home-btn p{
+    font-size: 1.2rem;
+    color: #53586b;
+}
+.home-btn button{
+    width: 150px;
+    height: 40px;
+    margin: 20px 20px 0px 0px;
+    border-radius: 100px;
+    background-color: white;
+    border: 2px solid #4FA095;
+    font-size: 1.1rem;
+
+}
+.nav-btn button{
+    width: 80px;
+    height: 30px;
+    margin-left: 20px;
+    border-radius: 100px;
+    background-color: white;
+    border: 2px solid #4FA095;
+}

@@ -1,0 +1,10 @@
+.adminportal{
+    display: flex;
+   
+}
+.left{
+    flex: 20%;
+}
+.right{
+    flex: 80%;
+}
